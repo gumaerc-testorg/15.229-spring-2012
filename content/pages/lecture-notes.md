@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e657bd81-8fee-8991-9336-c56fa6d9bf53
 ---
@@ -63,7 +66,7 @@ The Relevance of Organization
 {{< tdopen >}}
 Global Integration: The Value
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Slides and Notes for Lectures 4–5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_229s12_lec04and05)
 {{< tdclose >}}
 
@@ -84,7 +87,7 @@ Global Integration: The Challenge
 {{< tdopen >}}
 Navigating the Maze of a Globally Integrated Organization
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Slides and Notes for Lectures 6–7 (PDF)]({{< baseurl >}}/resources/mit15_229s12_lec06and07)
 {{< tdclose >}}
 
@@ -105,7 +108,7 @@ Managing Global Clients
 {{< tdopen >}}
 Managing Global Innovation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Slides and Notes for Lectures 8–9 (PDF)]({{< baseurl >}}/resources/mit15_229s12_lec08and09)
 {{< tdclose >}}
 

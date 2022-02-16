@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7e3a0082-3f2e-bf76-7a10-0d7893e8dea2
 ---
@@ -332,7 +335,7 @@ Building the Globally Integrated Company
 
 ### Case
 
-Kanter, Rosabeth Moss. "[IBM in the 21st Century: The Coming of the Globally Integrated Enterprise](http://hbr.org/product/ibm-in-the-21st-century-the-coming-of-the-globally/an/308105-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-308-105, March 31, 2008.
+Kanter, Rosabeth Moss. "[IBM in the 21{{< sup "st" >}} Century: The Coming of the Globally Integrated Enterprise](http://hbr.org/product/ibm-in-the-21st-century-the-coming-of-the-globally/an/308105-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-308-105, March 31, 2008.
 
 ### Post-Reading
 

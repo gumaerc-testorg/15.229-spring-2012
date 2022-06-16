@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and includes lecture
+  slides and notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 How Local Context Matters
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 1 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit15_229s12_lec01)
+{{% resource_link 9f473e28-bd2d-28d4-34c5-ff2171dbfa16 "Slides and Notes for Lecture 1 (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ How Local Context Matters
 Realizing a Global Performance
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 2 (PDF - 2.3MB)]({{< baseurl >}}/resources/mit15_229s12_lec02)
+{{% resource_link bf57866b-876e-578e-47e7-027f22871983 "Slides and Notes for Lecture 2 (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Realizing a Global Performance
 The Relevance of Organization
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 3 (PDF)]({{< baseurl >}}/resources/mit15_229s12_lec03)
+{{% resource_link fc48d4a8-00c5-dfda-6429-03d95e704054 "Slides and Notes for Lecture 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ The Relevance of Organization
 Global Integration: The Value
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Slides and Notes for Lectures 4–5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_229s12_lec04and05)
+{{% resource_link e4711333-f078-ae02-f821-1d8aa6028d0b "Slides and Notes for Lectures 4–5 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Global Integration: The Challenge
 Navigating the Maze of a Globally Integrated Organization
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Slides and Notes for Lectures 6–7 (PDF)]({{< baseurl >}}/resources/mit15_229s12_lec06and07)
+{{% resource_link aa6362d1-e25f-22de-0a31-3aa08e07ebf2 "Slides and Notes for Lectures 6–7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Managing Global Clients
 Managing Global Innovation
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Slides and Notes for Lectures 8–9 (PDF)]({{< baseurl >}}/resources/mit15_229s12_lec08and09)
+{{% resource_link 7e7752fc-2b80-1634-bcf6-ffd8f9b01dd8 "Slides and Notes for Lectures 8–9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ Building the Globally Integrated Company
 Creating Metanational Advantage
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 11 (PDF - 3.3MB)]({{< baseurl >}}/resources/mit15_229s12_lec11)
+{{% resource_link ba03ff1f-ba81-ded6-437d-3c63a2988abf "Slides and Notes for Lecture 11 (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

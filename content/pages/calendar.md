@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: The section includes a listing of all lectures topics, corresponding
+  case discussions, and learning objectives for each lecture.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 65636e3b-c692-77d0-1b2a-a0a855ce5c95
 ---
 
-Many of the class sessions are each built around a business case study, with the decisions and situations encountered by the featured company as a driver of in-class discussion. Guiding questions for analyzing each of the cases as well as supporting material are provided in the [Readings]({{< baseurl >}}/pages/readings) section.
+Many of the class sessions are each built around a business case study, with the decisions and situations encountered by the featured company as a driver of in-class discussion. Guiding questions for analyzing each of the cases as well as supporting material are provided in the {{% resource_link 7e3a0082-3f2e-bf76-7a10-0d7893e8dea2 "Readings" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

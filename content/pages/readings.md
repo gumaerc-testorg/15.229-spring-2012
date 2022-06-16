@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings for each lecture session,
+  associated study questions, and information on recommended books.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

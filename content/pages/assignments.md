@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes a description of the reflection paper assignments
+  and guidelines for case postings for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 635e0f2e-1c66-6132-4afc-09bff771c720
 ---

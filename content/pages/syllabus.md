@@ -27,7 +27,7 @@ The concepts and methods that you will learn reveal how GI can be instrumental t
 Prerequisites
 -------------
 
-The seminar is offered only to those enrolled in the [MIT Sloan Fellows Program](http://mitsloan.mit.edu/fellows/) and challenges the participants to draw upon their past managerial experiences, especially those affiliated with multinational companies.
+The seminar is offered only to those enrolled in the {{% resource_link "b9570a61-f420-4370-b344-fa5020bb21ca" "MIT Sloan Fellows Program" %}} and challenges the participants to draw upon their past managerial experiences, especially those affiliated with multinational companies.
 
 Requirements
 ------------
